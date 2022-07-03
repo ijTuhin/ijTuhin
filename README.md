@@ -1,4 +1,3 @@
-![]https://c.tenor.com/wblDoinm33gAAAAi/over-here-waving-hands.gif
 ## Assalamu Alaikum 👋
 
 I’m Israt! I’m a Front-end Web Developer. Expertise in React.js. Familiar with Node.js, Express.js, MongoDb. I am interested in problem solving, web development and design. I am an adaptive & fast learner. Thus, I am comfortable to work with any new technologies or environment.

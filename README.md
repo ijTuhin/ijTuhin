@@ -4,7 +4,6 @@
 #### 👯 I’m currently learning MERN stack...
 #### 💞️ I’m looking to collaborate on anything...
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ijtuhin&label=Profile%20views&color=0e75b6&style=flat" alt="ijtuhin" /> </p>
 
 
 
